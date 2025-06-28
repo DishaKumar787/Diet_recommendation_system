@@ -1,4 +1,4 @@
-# Diet_recommendation_system
+# Dish_recommendation_system
 
 A Python-based, menu-driven console application that recommends dishes based on user preferences like cuisine, course, diet, and price range.
 
